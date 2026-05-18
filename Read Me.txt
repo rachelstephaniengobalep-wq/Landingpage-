@@ -1,0 +1,9 @@
+
+***** READ ME *****
+
+L'objectif de ce travail est d'apprendre à utiliser le logiciel Figma.
+Notre premier exemple traite de la création d'une simple landing page pour les recettes de cuisine.
+
+1- la banque d'image : Magnific.com
+2- outils de design:  Figma 
+3- redimensionnement d'image : Paint
